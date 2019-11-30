@@ -1,24 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { Route, Link, Switch } from 'react-router-dom';
+
+import PostsList from './components/PostsList';
+import SinglePost from './components/SinglePost';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <Link to="/"><h1>Reduxstagram</h1></Link>
       </header>
+    
+      <Switch>
+        <Route path="/post/:id">
+          <SinglePost />
+        </Route>
+        <Route path="/">
+          <PostsList />
+        </Route>
+      </Switch>
     </div>
   );
 }
