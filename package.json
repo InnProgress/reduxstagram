@@ -1,5 +1,6 @@
 {
   "name": "reduxstagram",
+  "homepage": "http://InnProgress.github.io/reduxstagram",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
