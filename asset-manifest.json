@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/reduxstagram/static/css/main.1860b041.chunk.css",
-    "main.js": "/reduxstagram/static/js/main.d34ca414.chunk.js",
-    "main.js.map": "/reduxstagram/static/js/main.d34ca414.chunk.js.map",
+    "main.js": "/reduxstagram/static/js/main.955f8523.chunk.js",
+    "main.js.map": "/reduxstagram/static/js/main.955f8523.chunk.js.map",
     "runtime-main.js": "/reduxstagram/static/js/runtime-main.8d5556a3.js",
     "runtime-main.js.map": "/reduxstagram/static/js/runtime-main.8d5556a3.js.map",
     "static/js/2.b32de1cd.chunk.js": "/reduxstagram/static/js/2.b32de1cd.chunk.js",
     "static/js/2.b32de1cd.chunk.js.map": "/reduxstagram/static/js/2.b32de1cd.chunk.js.map",
     "index.html": "/reduxstagram/index.html",
-    "precache-manifest.b54f7e8f3a2049ac1ed5be91693a3778.js": "/reduxstagram/precache-manifest.b54f7e8f3a2049ac1ed5be91693a3778.js",
+    "precache-manifest.78532a259daecf78caa3742d51697572.js": "/reduxstagram/precache-manifest.78532a259daecf78caa3742d51697572.js",
     "service-worker.js": "/reduxstagram/service-worker.js",
     "static/css/main.1860b041.chunk.css.map": "/reduxstagram/static/css/main.1860b041.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.8d5556a3.js",
     "static/js/2.b32de1cd.chunk.js",
     "static/css/main.1860b041.chunk.css",
-    "static/js/main.d34ca414.chunk.js"
+    "static/js/main.955f8523.chunk.js"
   ]
 }
